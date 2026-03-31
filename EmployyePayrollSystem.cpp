@@ -1238,7 +1238,6 @@ void banner() {
     line('*', 65, BLUE);
     cout << BLUE << "* " << string(61, ' ') << " *\n" << RESET;
     center("*                   PAYROLL MANAGEMENT SYSTEM                   *", 65, BLUE);
-    center("*                 Object-Oriented Programming C++               *", 65, BLUE);
     cout << BLUE << "* " << string(61, ' ') << " *\n" << RESET;
     line('*', 65, BLUE);
     cout << "\n";
